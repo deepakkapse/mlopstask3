@@ -1,4 +1,4 @@
-# mlopstask3
+# MLOPS-Task3
 #Creating DockerFile to run our ML model under supervision of Jenkins Jobs<br>
 This repository  is created to publish mlops Task3.  
 <br>
